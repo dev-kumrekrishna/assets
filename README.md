@@ -25,7 +25,7 @@ assets/
 
 You can directly use these assets in your web projects via GitHub Pages:
 
-https://dev-kumrekrishna.github.io/assets/icons/home.svg
+https://dev-kumrekrishna.github.io/assets/logos/mine-portfolio.png
 
 Or via raw GitHub link:
 
