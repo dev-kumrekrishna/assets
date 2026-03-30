@@ -6,8 +6,9 @@ This repository is built to maintain design consistency, improve development spe
 
 ---
 
-📂 Folder Structure
+## 📂 Folder Structure
 
+```
 assets/
 │
 ├── icons/
@@ -16,9 +17,8 @@ assets/
 │   ├── social/
 │
 ├── logos/
-│
 ├── images/
-
+```
 ---
 
 🚀 Usage
